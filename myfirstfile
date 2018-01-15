@@ -1,0 +1,6 @@
+#!usr/bin/python
+v1 =1
+v2= 2
+v3 = v1+v2
+print("The value of v3 is ", v3)
+
